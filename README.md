@@ -1,1 +1,3 @@
-# lbry.id
+# lbry.id - Your web3 identity
+
+More soon...
